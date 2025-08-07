@@ -1,4 +1,4 @@
-HAL Agentflow: No-Code Agentic Workflow Builder
+#HAL Agentflow: No-Code Agentic Workflow Builder
 <p align="center">
 <strong>Translate natural language into structured, executable JSON workflows.</strong>
 </p>
